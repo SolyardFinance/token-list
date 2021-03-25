@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.2.45 (2021-03-25)
+
+
+### Features
+
+* add stake pool SOL (testnet) ([eb41456](https://github.com/solana-labs/token-list/commit/eb4145616a2fa7fa715cbad23398e7f050d7fc3e))
+
 ### 0.2.44 (2021-03-25)
 
 
